@@ -803,3 +803,16 @@ footer .footer_main .tag .search_bar button{
     color: white;
     cursor: pointer;
 }
+@media screen and (max-width: 600px)
+{
+    h1{
+        font-size: 36px;
+        line-height: 50px;
+    }
+    p{
+    width: 100px;
+    position: relative;
+    top: 50px;
+    left: 5%;
+}
+}
